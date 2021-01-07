@@ -1,6 +1,8 @@
 # IPs
 IP Addresses that submit Phishing and Dangerous URLs to Miniurl.id website
 
+Last updated: January 7th 2021
+
 Unique IP: 56
 
 - 102.176.65.30
